@@ -1,1 +1,2 @@
 Change1 - change1 in Remotefile
+Change2 - commit in RemmoteFile with remote o RemmoteFile
