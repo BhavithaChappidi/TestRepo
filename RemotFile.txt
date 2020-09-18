@@ -1,3 +1,4 @@
 Change1 - change1 in Remotefile
 Change2 - commit in RemmoteFile with remote o RemmoteFile
 Change3 - Change3 in RemoteFile
+Change4 - Change4 in RemoteFile
